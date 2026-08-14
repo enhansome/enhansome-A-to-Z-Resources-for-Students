@@ -1,0 +1,642 @@
+{
+  "items": [
+    {
+      "description": "Complete Beginner? → Beginner-Friendly ResourcesWant to Learn Trending Tech? → Web3 & Blockchain | AI & ML | CybersecurityBuilding Web Apps? → Modern Frontend | Backend DevelopmentMobile Development? → Mobile DevelopmentCareer Focused? → Student Programs | Interview PrepWant to Compete? → Hackathons | Open Source",
+      "items": [],
+      "title": "🚀 Quick Start Guide"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📋 Table of Contents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Tutorials",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Python Data Science Handbook",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-06-26T19:17:33Z",
+                "owner": "jakevdp",
+                "repo": "PythonDataScienceHandbook",
+                "stars": 49599
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A Whirlwind Tour of Python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-01-31T00:41:43Z",
+                "owner": "jakevdp",
+                "repo": "WhirlwindTourOfPython",
+                "stars": 4026
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Best GitHub Repositories to follow",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Algorithms Python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-03T18:44:56Z",
+                "owner": "TheAlgorithms",
+                "repo": "Python",
+                "stars": 223734
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Best GitHub Repositories to follow",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Self Taught Path for Data Science",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-05-13T02:19:48Z",
+                "owner": "ossu",
+                "repo": "data-science",
+                "stars": 21881
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Coding Train",
+              "description": "Machine Learning cheatsheets for Stanford's CS 229",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2020-05-20T04:57:25Z",
+                "owner": "afshinea",
+                "repo": "stanford-cs-229-machine-learning",
+                "stars": 20088
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Machine Learning Tutorials",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-06-12T08:11:59Z",
+                "owner": "ujjwalkarn",
+                "repo": "Machine-Learning-Tutorials",
+                "stars": 18092
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Research Papers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Research Papers with code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2020-01-16T21:38:24Z",
+                "owner": "zziz",
+                "repo": "pwc",
+                "stars": 15320
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Best GitHub Repositories to Follow",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Prompt Engineering Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "MDX",
+                "last_commit": "2026-03-11T20:09:13Z",
+                "owner": "dair-ai",
+                "repo": "Prompt-Engineering-Guide",
+                "stars": 77462
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome LLM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-07-31T02:38:24Z",
+                "owner": "Hannibal046",
+                "repo": "Awesome-LLM",
+                "stars": 27261
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLM Papers and Tools",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-04-08T18:26:44Z",
+                "owner": "Mooler0410",
+                "repo": "LLMsPracticalGuide",
+                "stars": 10197
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Prompt Engineering",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T07:43:49Z",
+                "owner": "promptslab",
+                "repo": "Awesome-Prompt-Engineering",
+                "stars": 6249
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Tools and Playgrounds to Test LLMs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LangChain + OpenAI Agent Playground",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-14T02:16:57Z",
+                "owner": "langchain-ai",
+                "repo": "langchain",
+                "stars": 144211
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Large Language Models (LLMs)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeFi Developer Roadmap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T03:54:41Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solidity Patterns",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2024-04-19T08:52:31Z",
+            "owner": "fravoll",
+            "repo": "solidity-patterns",
+            "stars": 3323
+          }
+        }
+      ],
+      "title": "Best GitHub Repositories"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zustand",
+          "description": "Lightweight state management",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:34:02Z",
+            "owner": "pmndrs",
+            "repo": "zustand",
+            "stars": 58562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Valtio",
+          "description": "Proxy-based state management",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:23:33Z",
+            "owner": "pmndrs",
+            "repo": "valtio",
+            "stars": 10221
+          }
+        }
+      ],
+      "title": "State Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Best Online Courses & Paths",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Associate Android Developer Certification Path | GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2023-02-21T14:43:44Z",
+                "owner": "Amejia481",
+                "repo": "Associate-Android-Developer-Certification",
+                "stars": 1055
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Hands-on Practice",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Android Examples | GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2023-10-12T16:48:31Z",
+                "owner": "nisrulz",
+                "repo": "android-examples",
+                "stars": 1741
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Flutter Resources",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Flutter Examples | GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Dart",
+                "last_commit": "2024-05-27T14:27:56Z",
+                "owner": "nisrulz",
+                "repo": "flutter-examples",
+                "stars": 7145
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Android Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "You Don't Know JS (book series)",
+          "description": "star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-15T04:36:44Z",
+            "owner": "getify",
+            "repo": "You-Dont-Know-JS",
+            "stars": 184666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "33 JS concepts every JavaScript developer should know",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T14:51:44Z",
+            "owner": "leonardomso",
+            "repo": "33-js-concepts",
+            "stars": 66510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "500 JavaScript Practice Labs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T10:04:35Z",
+            "owner": "labex-labs",
+            "repo": "javascript-practice-labs",
+            "stars": 95
+          }
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Node.JS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Node.js Design Patterns by Mario Casciaro",
+              "description": "Book Advanced level",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2021-02-11T13:33:51Z",
+                "owner": "PacktPublishing",
+                "repo": "Node.js_Design_Patterns_Second_Edition_Code",
+                "stars": 707
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PHP",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Guide for PHP and SQL connection with HTML form.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "PHP",
+                "last_commit": "2018-10-06T13:12:48Z",
+                "owner": "shauryauppal",
+                "repo": "PHP-Database-connection",
+                "stars": 15
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Backend Development"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data Structures & Algorithms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Coding Interview University - Github",
+          "description": "Strongly recommended to learn DS and Computer Science fundamentals",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-28T14:42:47Z",
+            "owner": "jwasham",
+            "repo": "coding-interview-university",
+            "stars": 358675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Algo & DS in different languages",
+          "description": "Algorithm and Data Structure in different programming languages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-18T00:05:08Z",
+            "owner": "ZoranPandovski",
+            "repo": "al-go-rithms",
+            "stars": 1371
+          }
+        }
+      ],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Aptitude Preparation for Placements"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Top People to Follow"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Top 50 YouTube Channels to Follow"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Top 10 in Technology"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Top 10 in Startup"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Top 10 in Design"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Top 10 in Business"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Top 10 in Finance"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Coding Bootcamps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Developer Clubs and Meetups"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📈 Technology Roadmap 2025"
+    },
+    {
+      "description": "Deepak Kumar\nAyush Gupta\n",
+      "items": [],
+      "title": "Maintainers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2.1 Top Global Hackathons 🌐"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2.2 Competitions 🏆"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2.3 Hackathon Search Portals :dart:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2.5 Startup Summits, Competitions and Bootcamps :neckbeard:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2.6 Hiring Challenges"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "11.1 Top 10 in Technology"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "11.2 Top 10 in Startup"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "11.3 Top 10 in Design"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "11.4 Top 10 in Business"
+    },
+    {
+      "description": "If this repository helped you, consider giving it a star — it helps more students discover these resources!",
+      "items": [],
+      "title": "⭐ Star History"
+    },
+    {
+      "description": "Deepak Kumar\nAyush Gupta\n",
+      "items": [],
+      "title": "16. Maintainers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ""
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:01:52.854Z",
+    "original_repository": "dipakkr/A-to-Z-Resources-for-Students",
+    "original_repository_sha": "e2bb95184a14756e4b42c59e75918fb99c8fc80e",
+    "enhanced_repository": "enhansome/enhansome-A-to-Z-Resources-for-Students",
+    "enhanced_repository_description": null,
+    "title": "Awesome FYI with stars"
+  }
+}
