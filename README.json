@@ -29,7 +29,7 @@
                 "last_commit": "2024-06-26T19:17:33Z",
                 "owner": "jakevdp",
                 "repo": "PythonDataScienceHandbook",
-                "stars": 49608
+                "stars": 49613
               }
             },
             {
@@ -64,7 +64,7 @@
                 "last_commit": "2026-08-03T18:44:56Z",
                 "owner": "TheAlgorithms",
                 "repo": "Python",
-                "stars": 223733
+                "stars": 223769
               }
             }
           ]
@@ -91,7 +91,7 @@
                 "last_commit": "2025-05-13T02:19:48Z",
                 "owner": "ossu",
                 "repo": "data-science",
-                "stars": 21885
+                "stars": 21889
               }
             },
             {
@@ -105,7 +105,7 @@
                 "last_commit": "2020-05-20T04:57:25Z",
                 "owner": "afshinea",
                 "repo": "stanford-cs-229-machine-learning",
-                "stars": 20100
+                "stars": 20106
               }
             },
             {
@@ -119,7 +119,7 @@
                 "last_commit": "2024-06-12T08:11:59Z",
                 "owner": "ujjwalkarn",
                 "repo": "Machine-Learning-Tutorials",
-                "stars": 18098
+                "stars": 18103
               }
             }
           ]
@@ -167,7 +167,7 @@
                 "last_commit": "2026-03-11T20:09:13Z",
                 "owner": "dair-ai",
                 "repo": "Prompt-Engineering-Guide",
-                "stars": 77481
+                "stars": 77498
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2025-07-31T02:38:24Z",
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27264
+                "stars": 27266
               }
             },
             {
@@ -206,10 +206,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T07:41:06Z",
+                "last_commit": "2026-08-15T06:49:20Z",
                 "owner": "promptslab",
                 "repo": "Awesome-Prompt-Engineering",
-                "stars": 6249
+                "stars": 6253
               }
             }
           ]
@@ -227,10 +227,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-14T19:03:45Z",
+                "last_commit": "2026-08-15T08:07:42Z",
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 144241
+                "stars": 144300
               }
             }
           ]
@@ -252,7 +252,7 @@
             "last_commit": "2026-07-26T03:54:41Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10805
+            "stars": 10806
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2024-04-19T08:52:31Z",
             "owner": "fravoll",
             "repo": "solidity-patterns",
-            "stars": 3323
+            "stars": 3324
           }
         }
       ],
@@ -286,7 +286,7 @@
             "last_commit": "2026-08-13T00:34:02Z",
             "owner": "pmndrs",
             "repo": "zustand",
-            "stars": 58566
+            "stars": 58570
           }
         },
         {
@@ -389,7 +389,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184666
+            "stars": 184668
           }
         },
         {
@@ -403,7 +403,7 @@
             "last_commit": "2026-08-02T14:51:44Z",
             "owner": "leonardomso",
             "repo": "33-js-concepts",
-            "stars": 66509
+            "stars": 66510
           }
         },
         {
@@ -490,7 +490,7 @@
             "last_commit": "2025-08-28T14:42:47Z",
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 358744
+            "stars": 358827
           }
         },
         {
@@ -632,7 +632,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T03:53:50.077Z",
+    "last_updated": "2026-08-16T03:58:51.298Z",
     "original_repository": "dipakkr/A-to-Z-Resources-for-Students",
     "original_repository_sha": "e2bb95184a14756e4b42c59e75918fb99c8fc80e",
     "enhanced_repository": "enhansome/enhansome-A-to-Z-Resources-for-Students",
