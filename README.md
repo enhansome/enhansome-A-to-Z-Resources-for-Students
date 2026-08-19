@@ -99,8 +99,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
   * [ToolBaz](https://www.tooljunction.io/ai-tools/toolbaz) - Collection of AI-powered productivity tools
 
 * **Best GitHub Repositories for AI Tools**
-  * [Awesome ChatGPT](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,471 | 🐛 66 | 🌐 HTML | 📅 2026-08-19
-  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,066 | 🐛 26 | 🌐 Python | 📅 2026-08-11
+  * [Awesome ChatGPT](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,526 | 🐛 66 | 🌐 HTML | 📅 2026-08-19
+  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,069 | 🐛 26 | 🌐 Python | 📅 2026-08-11
   * [Awesome AI Tools](https://github.com/dipakkr/awesome-ai-tools) ⭐ 16 | 🐛 7 | 📅 2025-06-14
 
 # Programming Languages & Frameworks
@@ -155,7 +155,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
   * [Python Skill Tree | LabEx](https://labex.io/skilltrees/python)
 
 * **Best GitHub Repositories to follow**
-  * [The Algorithms Python](https://github.com/TheAlgorithms/Python) ⭐ 223,843 | 🐛 1,045 | 🌐 Python | 📅 2026-08-03
+  * [The Algorithms Python](https://github.com/TheAlgorithms/Python) ⭐ 223,864 | 🐛 1,045 | 🌐 Python | 📅 2026-08-03
 
 # AI & Machine Learning
 
@@ -217,10 +217,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
   * [Mastering LLMs | YouTube (AssemblyAI)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
 * **Best GitHub Repositories to Follow**
-  * [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 77,564 | 🐛 279 | 🌐 MDX | 📅 2026-03-11
-  * [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,269 | 🐛 437 | 📅 2025-07-31
+  * [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 77,582 | 🐛 279 | 🌐 MDX | 📅 2026-03-11
+  * [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,271 | 🐛 436 | 📅 2025-07-31
   * [LLM Papers and Tools](https://github.com/Mooler0410/LLMsPracticalGuide) ⭐ 10,197 | 🐛 17 | 📅 2026-04-08
-  * [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) ⭐ 6,260 | 🐛 105 | 🌐 TypeScript | 📅 2026-08-18
+  * [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) ⭐ 6,261 | 🐛 105 | 🌐 TypeScript | 📅 2026-08-19
 
 * **Research Papers**
   * [Arxiv - LLM Category](https://arxiv.org/search/cs?query=large+language+model\&searchtype=all\&abstracts=show\&order=-announced_date_first\&size=50)
@@ -231,7 +231,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
   * [Meta AI Papers](https://ai.meta.com/research/publications/)
 
 * **Tools and Playgrounds to Test LLMs**
-  * [LangChain + OpenAI Agent Playground](https://github.com/langchain-ai/langchain) ⭐ 144,509 | 🐛 403 | 🌐 Python | 📅 2026-08-19
+  * [LangChain + OpenAI Agent Playground](https://github.com/langchain-ai/langchain) ⭐ 144,549 | 🐛 410 | 🌐 Python | 📅 2026-08-19
   * [OpenAI Playground](https://platform.openai.com/playground)
   * [Hugging Face Inference Playground](https://huggingface.co/models)
   * [Replicate](https://replicate.com/)
@@ -422,8 +422,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## State Management
 
-* [Zustand](https://github.com/pmndrs/zustand) ⭐ 58,584 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-18 - Lightweight state management
-* [Valtio](https://github.com/pmndrs/valtio) ⭐ 10,223 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-12 - Proxy-based state management
+* [Zustand](https://github.com/pmndrs/zustand) ⭐ 58,584 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-18 - Lightweight state management
+* [Valtio](https://github.com/pmndrs/valtio) ⭐ 10,224 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-12 - Proxy-based state management
 * [Jotai](https://jotai.org/) - Primitive and flexible state management
 * [Redux Toolkit](https://redux-toolkit.js.org/) - Modern Redux development
 * [Recoil](https://recoiljs.org/) - State management for React
@@ -497,8 +497,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ### JavaScript
 
-* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,707 | 🐛 2 | 📅 2026-02-15 :star:
-* [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts) ⭐ 66,508 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-02
+* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,711 | 🐛 2 | 📅 2026-02-15 :star:
+* [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts) ⭐ 66,510 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-02
 * [500 JavaScript Practice Labs](https://github.com/labex-labs/javascript-practice-labs) ⭐ 95 | 🐛 0 | 📅 2026-06-30
 * [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 * [javascript.info](https://javascript.info/) - Modern JavaScript Tutorial
@@ -730,10 +730,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
   * [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
   * [javascript.info](https://javascript.info/) - Modern JavaScript Tutorial
   * [Javascript30 | Wes Bos](https://javascript30.com/) - 30 Day Vanilla JS Challenge
-  * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,707 | 🐛 2 | 📅 2026-02-15 :star:
+  * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,711 | 🐛 2 | 📅 2026-02-15 :star:
   * [Eloquent JavaScript Online](https://eloquentjavascript.net/)
   * [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) :star: :heavy\_dollar\_sign:
-  * [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts) ⭐ 66,508 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-02
+  * [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts) ⭐ 66,510 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-02
   * [30 Seconds of Code](https://30secondsofcode.org/) - Short code snippets for all your development needs
   * [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - By Addy Osmani
   * [ES6 Cheatsheet](https://es6cheatsheet.com/)
@@ -866,7 +866,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ### Books
 
-* [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) ⭐ 359,168 | 🐛 124 | 📅 2025-08-28 -  Strongly recommended to learn DS and Computer Science fundamentals
+* [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) ⭐ 359,199 | 🐛 124 | 📅 2025-08-28 -  Strongly recommended to learn DS and Computer Science fundamentals
 * [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) ⭐ 1,372 | 🐛 63 | 🌐 Jupyter Notebook | 📅 2024-06-18 - Algorithm and Data Structure in different programming languages
 * [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
 * [The Hitchhiker's Guide to the Programming Contests](https://comscigate.com/Books/contests/icpc.pdf) - Goto book for competitive programming enthusiasts.
@@ -1196,7 +1196,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 # Open Source Programs
 
-> **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md) ⭐ 22,182 | 🐛 44 | 📅 2026-06-17
+> **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md) ⭐ 22,186 | 🐛 44 | 📅 2026-06-17
 
 | Id | Name                                                                              | Organization             | Stipend/Incentives | Timeline | Deadline |
 | -- | --------------------------------------------------------------------------------- | ------------------------ | ------------------ | -------- | -------- |
@@ -1214,7 +1214,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 > **For More Open Source Competitons and Programs** - [Click Here](https://github.com/tapasweni-pathak/SOC-Programs) ⚠️ Archived <br />
 
-> **For more detailed information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md) ⭐ 22,182 | 🐛 44 | 📅 2026-06-17 <br />
+> **For more detailed information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md) ⭐ 22,186 | 🐛 44 | 📅 2026-06-17 <br />
 
 # Startup Programs and Incubators :mag\_right:
 
@@ -1259,7 +1259,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
 9. [App Academy - Full Stack Coding Bootcamp, Free Curriculum](https://open.appacademy.io/#free)
-10. [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) ⭐ 208,145 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 - *Learning*
+10. [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) ⭐ 208,156 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 - *Learning*
 11. [Free Women-Only Mentorship Program](https://www.builtbygirls.com/programs/wave) - *Learning*
 
 # 🧭 Recommended Learning Paths
@@ -1360,7 +1360,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
   * [The Hitchhiker's Guide to the Programming Contests](https://comscigate.com/Books/contests/icpc.pdf) - Goto book for competitive programming enthusiasts.
   * [CLRS](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)  - Holy Bible for Design and Analysis of algorithms
   * [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - Another goto book for easy to understand algorithm design and analysis
-  * [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) ⭐ 359,168 | 🐛 124 | 📅 2025-08-28 -  Strongly recommended to learn DS and Computer Science fundamentals
+  * [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) ⭐ 359,199 | 🐛 124 | 📅 2025-08-28 -  Strongly recommended to learn DS and Computer Science fundamentals
   * [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) ⭐ 1,372 | 🐛 63 | 🌐 Jupyter Notebook | 📅 2024-06-18 - Algorithm and Data Structure in different programming languages
   * [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - Clean Code: A Handbook of Agile Software Craftsmanship :heavy\_dollar\_sign:
   * [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition :heavy\_dollar\_sign:
@@ -1817,7 +1817,7 @@ For Becoming a Full-Stack Web Developer you need to know about Front-End & Back-
 
 # 4. Open Source Programs
 
-> **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md) ⭐ 22,182 | 🐛 44 | 📅 2026-06-17
+> **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md) ⭐ 22,186 | 🐛 44 | 📅 2026-06-17
 
 | Id | Name                                                                              | Organization             | Stipend/Incentives | Timeline | Deadline |
 | -- | --------------------------------------------------------------------------------- | ------------------------ | ------------------ | -------- | -------- |
@@ -1835,7 +1835,7 @@ For Becoming a Full-Stack Web Developer you need to know about Front-End & Back-
 
 > **For More Open Source Competitons and Programs** - [Click Here](https://github.com/tapasweni-pathak/SOC-Programs) ⚠️ Archived <br />
 
-> **For more detailed information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md) ⭐ 22,182 | 🐛 44 | 📅 2026-06-17 <br />
+> **For more detailed information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md) ⭐ 22,186 | 🐛 44 | 📅 2026-06-17 <br />
 
 ***
 
@@ -2115,7 +2115,7 @@ For Becoming a Full-Stack Web Developer you need to know about Front-End & Back-
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
 9. [App Academy - Full Stack Coding Bootcamp, Free Curriculum](https://open.appacademy.io/#free)
-10. [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) ⭐ 208,145 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 - *Learning*
+10. [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) ⭐ 208,156 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 - *Learning*
 11. [Free Women-Only Mentorship Program](https://www.builtbygirls.com/programs/wave) - *Learning*
 
 # 13. Coding Bootcamps
