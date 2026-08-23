@@ -39,10 +39,10 @@
                 "archived": false,
                 "id": 574523116,
                 "language": "HTML",
-                "last_commit": "2026-08-22T03:19:18Z",
+                "last_commit": "2026-08-23T03:23:38Z",
                 "owner": "f",
                 "repo": "prompts.chat",
-                "stars": 167714
+                "stars": 167773
               }
             },
             {
@@ -57,7 +57,7 @@
                 "last_commit": "2026-08-21T10:11:51Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74103
+                "stars": 74121
               }
             },
             {
@@ -102,7 +102,7 @@
                     "last_commit": "2024-06-26T19:17:33Z",
                     "owner": "jakevdp",
                     "repo": "PythonDataScienceHandbook",
-                    "stars": 49667
+                    "stars": 49674
                   }
                 },
                 {
@@ -117,7 +117,7 @@
                     "last_commit": "2024-01-31T00:41:43Z",
                     "owner": "jakevdp",
                     "repo": "WhirlwindTourOfPython",
-                    "stars": 4029
+                    "stars": 4028
                   }
                 }
               ]
@@ -139,7 +139,7 @@
                     "last_commit": "2026-08-21T18:46:06Z",
                     "owner": "TheAlgorithms",
                     "repo": "Python",
-                    "stars": 223934
+                    "stars": 223950
                   }
                 }
               ]
@@ -174,7 +174,7 @@
                     "last_commit": "2025-05-13T02:19:48Z",
                     "owner": "ossu",
                     "repo": "data-science",
-                    "stars": 21899
+                    "stars": 21905
                   }
                 },
                 {
@@ -189,7 +189,7 @@
                     "last_commit": "2020-05-20T04:57:25Z",
                     "owner": "afshinea",
                     "repo": "stanford-cs-229-machine-learning",
-                    "stars": 20142
+                    "stars": 20143
                   }
                 },
                 {
@@ -204,7 +204,7 @@
                     "last_commit": "2024-06-12T08:11:59Z",
                     "owner": "ujjwalkarn",
                     "repo": "Machine-Learning-Tutorials",
-                    "stars": 18128
+                    "stars": 18137
                   }
                 }
               ]
@@ -255,7 +255,7 @@
                     "last_commit": "2026-03-11T20:09:13Z",
                     "owner": "dair-ai",
                     "repo": "Prompt-Engineering-Guide",
-                    "stars": 77672
+                    "stars": 77703
                   }
                 },
                 {
@@ -297,10 +297,10 @@
                     "archived": false,
                     "id": 599716050,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T06:57:27Z",
+                    "last_commit": "2026-08-22T06:51:00Z",
                     "owner": "promptslab",
                     "repo": "Awesome-Prompt-Engineering",
-                    "stars": 6272
+                    "stars": 6278
                   }
                 }
               ]
@@ -319,10 +319,10 @@
                     "archived": false,
                     "id": 552661142,
                     "language": "Python",
-                    "last_commit": "2026-08-21T18:38:05Z",
+                    "last_commit": "2026-08-22T08:45:46Z",
                     "owner": "langchain-ai",
                     "repo": "langchain",
-                    "stars": 144741
+                    "stars": 144800
                   }
                 }
               ]
@@ -352,7 +352,7 @@
                 "last_commit": "2026-08-16T23:17:39Z",
                 "owner": "OffcierCia",
                 "repo": "DeFi-Developer-Road-Map",
-                "stars": 10813
+                "stars": 10815
               }
             },
             {
@@ -367,7 +367,7 @@
                 "last_commit": "2024-04-19T08:52:31Z",
                 "owner": "fravoll",
                 "repo": "solidity-patterns",
-                "stars": 3323
+                "stars": 3324
               }
             }
           ],
@@ -395,7 +395,7 @@
                 "last_commit": "2026-08-19T13:05:32Z",
                 "owner": "pmndrs",
                 "repo": "zustand",
-                "stars": 58592
+                "stars": 58595
               }
             },
             {
@@ -410,7 +410,7 @@
                 "last_commit": "2026-08-12T23:23:33Z",
                 "owner": "pmndrs",
                 "repo": "valtio",
-                "stars": 10225
+                "stars": 10226
               }
             }
           ],
@@ -519,7 +519,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184709
+                    "stars": 184716
                   }
                 },
                 {
@@ -635,7 +635,7 @@
                     "last_commit": "2025-08-28T14:42:47Z",
                     "owner": "jwasham",
                     "repo": "coding-interview-university",
-                    "stars": 359447
+                    "stars": 359504
                   }
                 },
                 {
@@ -668,7 +668,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:55:56.799Z",
+    "last_updated": "2026-08-23T03:59:51.249Z",
     "original_repository": "dipakkr/A-to-Z-Resources-for-Students",
     "original_repository_id": 149113514,
     "original_repository_sha": "e2bb95184a14756e4b42c59e75918fb99c8fc80e",
