@@ -42,7 +42,7 @@
                 "last_commit": "2026-08-24T03:24:40Z",
                 "owner": "f",
                 "repo": "prompts.chat",
-                "stars": 167825
+                "stars": 167848
               }
             },
             {
@@ -57,7 +57,7 @@
                 "last_commit": "2026-08-21T10:11:51Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74131
+                "stars": 74141
               }
             },
             {
@@ -102,7 +102,7 @@
                     "last_commit": "2024-06-26T19:17:33Z",
                     "owner": "jakevdp",
                     "repo": "PythonDataScienceHandbook",
-                    "stars": 49685
+                    "stars": 49688
                   }
                 },
                 {
@@ -117,7 +117,7 @@
                     "last_commit": "2024-01-31T00:41:43Z",
                     "owner": "jakevdp",
                     "repo": "WhirlwindTourOfPython",
-                    "stars": 4029
+                    "stars": 4030
                   }
                 }
               ]
@@ -139,7 +139,7 @@
                     "last_commit": "2026-08-21T18:46:06Z",
                     "owner": "TheAlgorithms",
                     "repo": "Python",
-                    "stars": 223981
+                    "stars": 223987
                   }
                 }
               ]
@@ -174,7 +174,7 @@
                     "last_commit": "2025-05-13T02:19:48Z",
                     "owner": "ossu",
                     "repo": "data-science",
-                    "stars": 21911
+                    "stars": 21910
                   }
                 },
                 {
@@ -189,7 +189,7 @@
                     "last_commit": "2020-05-20T04:57:25Z",
                     "owner": "afshinea",
                     "repo": "stanford-cs-229-machine-learning",
-                    "stars": 20147
+                    "stars": 20152
                   }
                 },
                 {
@@ -255,7 +255,7 @@
                     "last_commit": "2026-03-11T20:09:13Z",
                     "owner": "dair-ai",
                     "repo": "Prompt-Engineering-Guide",
-                    "stars": 77731
+                    "stars": 77749
                   }
                 },
                 {
@@ -270,7 +270,7 @@
                     "last_commit": "2025-07-31T02:38:24Z",
                     "owner": "Hannibal046",
                     "repo": "Awesome-LLM",
-                    "stars": 27276
+                    "stars": 27279
                   }
                 },
                 {
@@ -285,7 +285,7 @@
                     "last_commit": "2026-04-08T18:26:44Z",
                     "owner": "Mooler0410",
                     "repo": "LLMsPracticalGuide",
-                    "stars": 10200
+                    "stars": 10201
                   }
                 },
                 {
@@ -297,10 +297,10 @@
                     "archived": false,
                     "id": 599716050,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T06:51:40Z",
+                    "last_commit": "2026-08-24T07:10:45Z",
                     "owner": "promptslab",
                     "repo": "Awesome-Prompt-Engineering",
-                    "stars": 6280
+                    "stars": 6282
                   }
                 }
               ]
@@ -319,10 +319,10 @@
                     "archived": false,
                     "id": 552661142,
                     "language": "Python",
-                    "last_commit": "2026-08-23T19:58:45Z",
+                    "last_commit": "2026-08-24T13:18:11Z",
                     "owner": "langchain-ai",
                     "repo": "langchain",
-                    "stars": 144857
+                    "stars": 144894
                   }
                 }
               ]
@@ -331,6 +331,125 @@
           "description": null,
           "node_type": "group",
           "title": "Large Language Models (LLMs)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Best GitHub Repositories to follow",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Python Data Science Handbook",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 65388917,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-06-26T19:17:33Z",
+                    "owner": "jakevdp",
+                    "repo": "PythonDataScienceHandbook",
+                    "stars": 49688
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Caire - Content Aware Image Resize",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 116718067,
+                    "language": "Go",
+                    "last_commit": "2025-05-02T08:19:39Z",
+                    "owner": "esimov",
+                    "repo": "caire",
+                    "stars": 10466
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DensePose - Facebook Research",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 136069311,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-01-18T17:26:59Z",
+                    "owner": "facebookresearch",
+                    "repo": "DensePose",
+                    "stars": 7259
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VisualDL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 114885555,
+                    "language": "HTML",
+                    "last_commit": "2025-01-22T06:02:52Z",
+                    "owner": "PaddlePaddle",
+                    "repo": "VisualDL",
+                    "stars": 4884
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Tensorflow Project Template",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 118365403,
+                    "language": "Python",
+                    "last_commit": "2022-04-21T06:56:15Z",
+                    "owner": "mgsalem",
+                    "repo": "Tensorflow-Project-Template",
+                    "stars": 3616
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learn Deep Learning in 6 Weeks",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 135180258,
+                    "language": null,
+                    "last_commit": "2018-10-13T18:51:50Z",
+                    "owner": "llSourcell",
+                    "repo": "Learn_Deep_Learning_in_6_Weeks",
+                    "stars": 2652
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Top-Deep-Learning",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 125444399,
+                    "language": "Python",
+                    "last_commit": "2024-02-17T05:33:18Z",
+                    "owner": "mbadry1",
+                    "repo": "Top-Deep-Learning",
+                    "stars": 1774
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "Browse this link for detailed information on Machine Learning and Deep Learning",
+          "node_type": "group",
+          "title": "Deep Learning"
         }
       ],
       "title": "AI & Machine Learning"
@@ -395,7 +514,7 @@
                 "last_commit": "2026-08-19T13:05:32Z",
                 "owner": "pmndrs",
                 "repo": "zustand",
-                "stars": 58597
+                "stars": 58600
               }
             },
             {
@@ -519,7 +638,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184717
+                    "stars": 184718
                   }
                 },
                 {
@@ -612,6 +731,65 @@
           "description": null,
           "node_type": "group",
           "title": "Backend Development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "JavaScript",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "You Don't Know JS (book series)",
+                  "description": "star:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14440270,
+                    "language": null,
+                    "last_commit": "2026-02-15T04:36:44Z",
+                    "owner": "getify",
+                    "repo": "You-Dont-Know-JS",
+                    "stars": 184718
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "33 JS concepts every JavaScript developer should know",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 147350463,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-02T14:51:44Z",
+                    "owner": "leonardomso",
+                    "repo": "33-js-concepts",
+                    "stars": 66516
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "500 JavaScript Practice Labs",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 805287277,
+                    "language": null,
+                    "last_commit": "2026-06-30T10:04:35Z",
+                    "owner": "labex-labs",
+                    "repo": "javascript-practice-labs",
+                    "stars": 95
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "1.6 Frontend Web Development"
         }
       ],
       "title": "Web Development"
@@ -635,7 +813,7 @@
                     "last_commit": "2025-08-28T14:42:47Z",
                     "owner": "jwasham",
                     "repo": "coding-interview-university",
-                    "stars": 359574
+                    "stars": 359617
                   }
                 },
                 {
@@ -665,10 +843,82 @@
         }
       ],
       "title": "Interview Preparation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Books",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Coding Interview University - Github",
+                  "description": "Strongly recommended to learn DS and Computer Science fundamentals",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60493101,
+                    "language": null,
+                    "last_commit": "2025-08-28T14:42:47Z",
+                    "owner": "jwasham",
+                    "repo": "coding-interview-university",
+                    "stars": 359617
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Algo & DS in different languages",
+                  "description": "Algorithm and Data Structure in different programming languages",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 93438176,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-06-18T00:05:08Z",
+                    "owner": "ZoranPandovski",
+                    "repo": "al-go-rithms",
+                    "stars": 1372
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "Deepak Kumar\nAyush Gupta",
+          "node_type": "group",
+          "title": "Maintainers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MATLAB Student Resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 684281904,
+                "language": "MATLAB",
+                "last_commit": "2026-06-16T18:05:37Z",
+                "owner": "mathworks",
+                "repo": "awesome-matlab-students",
+                "stars": 721
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "1.22 MATLAB/Octave"
+        }
+      ],
+      "title": "🧭 Recommended Learning Paths"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:04:46.355Z",
+    "last_updated": "2026-08-24T13:55:42.333Z",
     "original_repository": "dipakkr/A-to-Z-Resources-for-Students",
     "original_repository_id": 149113514,
     "original_repository_sha": "e2bb95184a14756e4b42c59e75918fb99c8fc80e",
