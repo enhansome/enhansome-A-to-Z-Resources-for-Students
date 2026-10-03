@@ -39,7 +39,7 @@
             {
               "node_type": "item",
               "title": "Awesome ChatGPT",
-              "description": null,
+              "description": "f/prompts.chat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -49,10 +49,10 @@
                 "language": "HTML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T09:59:16Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "f",
                 "repo": "prompts.chat",
-                "stars": 171853,
+                "stars": 171878,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -79,7 +79,7 @@
             {
               "node_type": "item",
               "title": "Awesome Machine Learning",
-              "description": null,
+              "description": "josephmisiti/awesome-machine-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -92,7 +92,7 @@
                 "open_issues": 22,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74506,
+                "stars": 74510,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:21:31.648Z"
@@ -100,7 +100,7 @@
             {
               "node_type": "item",
               "title": "Awesome AI Tools",
-              "description": null,
+              "description": "dipakkr/awesome-ai-tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -136,7 +136,7 @@
                 {
                   "node_type": "item",
                   "title": "Python Data Science Handbook",
-                  "description": null,
+                  "description": "jakevdp/PythonDataScienceHandbook",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -149,7 +149,7 @@
                     "open_issues": 226,
                     "owner": "jakevdp",
                     "repo": "PythonDataScienceHandbook",
-                    "stars": 50073,
+                    "stars": 50075,
                     "topics": [
                       "jupyter-notebook",
                       "matplotlib",
@@ -164,7 +164,7 @@
                 {
                   "node_type": "item",
                   "title": "A Whirlwind Tour of Python",
-                  "description": null,
+                  "description": "jakevdp/WhirlwindTourOfPython",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -177,7 +177,7 @@
                     "open_issues": 25,
                     "owner": "jakevdp",
                     "repo": "WhirlwindTourOfPython",
-                    "stars": 4045,
+                    "stars": 4046,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:31.648Z"
@@ -192,7 +192,7 @@
                 {
                   "node_type": "item",
                   "title": "The Algorithms Python",
-                  "description": null,
+                  "description": "TheAlgorithms/Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -202,10 +202,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-01T16:19:55Z",
-                    "open_issues": 3,
+                    "open_issues": 7,
                     "owner": "TheAlgorithms",
                     "repo": "Python",
-                    "stars": 225203,
+                    "stars": 225216,
                     "topics": [
                       "algorithm",
                       "algorithm-competitions",
@@ -248,7 +248,7 @@
                 {
                   "node_type": "item",
                   "title": "Self Taught Path for Data Science",
-                  "description": null,
+                  "description": "ossu/data-science",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -261,7 +261,7 @@
                     "open_issues": 4,
                     "owner": "ossu",
                     "repo": "data-science",
-                    "stars": 22131,
+                    "stars": 22136,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:31.648Z"
@@ -282,7 +282,7 @@
                     "open_issues": 21,
                     "owner": "afshinea",
                     "repo": "stanford-cs-229-machine-learning",
-                    "stars": 20286,
+                    "stars": 20285,
                     "topics": [
                       "cheatsheet",
                       "cs229",
@@ -299,7 +299,7 @@
                 {
                   "node_type": "item",
                   "title": "Machine Learning Tutorials",
-                  "description": null,
+                  "description": "ujjwalkarn/Machine-Learning-Tutorials",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -312,7 +312,7 @@
                     "open_issues": 49,
                     "owner": "ujjwalkarn",
                     "repo": "Machine-Learning-Tutorials",
-                    "stars": 18244,
+                    "stars": 18241,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -339,7 +339,7 @@
                 {
                   "node_type": "item",
                   "title": "Research Papers with code",
-                  "description": null,
+                  "description": "zziz/pwc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -352,7 +352,7 @@
                     "open_issues": 25,
                     "owner": "zziz",
                     "repo": "pwc",
-                    "stars": 15305,
+                    "stars": 15304,
                     "topics": [
                       "code",
                       "cvpr",
@@ -383,7 +383,7 @@
                 {
                   "node_type": "item",
                   "title": "Prompt Engineering Guide",
-                  "description": null,
+                  "description": "dair-ai/Prompt-Engineering-Guide",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -396,7 +396,7 @@
                     "open_issues": 287,
                     "owner": "dair-ai",
                     "repo": "Prompt-Engineering-Guide",
-                    "stars": 78778,
+                    "stars": 78796,
                     "topics": [
                       "agent",
                       "agents",
@@ -416,7 +416,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome LLM",
-                  "description": null,
+                  "description": "Hannibal046/Awesome-LLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -426,10 +426,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2025-07-31T02:38:24Z",
-                    "open_issues": 469,
+                    "open_issues": 470,
                     "owner": "Hannibal046",
                     "repo": "Awesome-LLM",
-                    "stars": 27436,
+                    "stars": 27433,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:31.648Z"
@@ -437,7 +437,7 @@
                 {
                   "node_type": "item",
                   "title": "LLM Papers and Tools",
-                  "description": null,
+                  "description": "Mooler0410/LLMsPracticalGuide",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -450,7 +450,7 @@
                     "open_issues": 17,
                     "owner": "Mooler0410",
                     "repo": "LLMsPracticalGuide",
-                    "stars": 10209,
+                    "stars": 10208,
                     "topics": [
                       "large-language-models",
                       "natural-language-processing",
@@ -463,7 +463,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome Prompt Engineering",
-                  "description": null,
+                  "description": "promptslab/Awesome-Prompt-Engineering",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -472,11 +472,11 @@
                     "id": 599716050,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-01T12:56:20Z",
-                    "open_issues": 121,
+                    "last_commit": "2026-10-02T12:19:02Z",
+                    "open_issues": 122,
                     "owner": "promptslab",
                     "repo": "Awesome-Prompt-Engineering",
-                    "stars": 6351,
+                    "stars": 6355,
                     "topics": [
                       "chatgpt",
                       "chatgpt-api",
@@ -511,7 +511,7 @@
                 {
                   "node_type": "item",
                   "title": "LangChain + OpenAI Agent Playground",
-                  "description": null,
+                  "description": "langchain-ai/langchain",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -520,11 +520,11 @@
                     "id": 552661142,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T08:35:17Z",
-                    "open_issues": 603,
+                    "last_commit": "2026-10-02T22:57:27Z",
+                    "open_issues": 606,
                     "owner": "langchain-ai",
                     "repo": "langchain",
-                    "stars": 147378,
+                    "stars": 147391,
                     "topics": [
                       "agents",
                       "ai",
@@ -567,7 +567,7 @@
                 {
                   "node_type": "item",
                   "title": "Python Data Science Handbook",
-                  "description": null,
+                  "description": "jakevdp/PythonDataScienceHandbook",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -580,7 +580,7 @@
                     "open_issues": 226,
                     "owner": "jakevdp",
                     "repo": "PythonDataScienceHandbook",
-                    "stars": 50073,
+                    "stars": 50075,
                     "topics": [
                       "jupyter-notebook",
                       "matplotlib",
@@ -595,7 +595,7 @@
                 {
                   "node_type": "item",
                   "title": "Caire - Content Aware Image Resize",
-                  "description": null,
+                  "description": "esimov/caire",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -608,7 +608,7 @@
                     "open_issues": 3,
                     "owner": "esimov",
                     "repo": "caire",
-                    "stars": 10464,
+                    "stars": 10465,
                     "topics": [
                       "computer-vision",
                       "content-aware-resize",
@@ -627,7 +627,7 @@
                 {
                   "node_type": "item",
                   "title": "DensePose - Facebook Research",
-                  "description": null,
+                  "description": "facebookresearch/DensePose",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -648,7 +648,7 @@
                 {
                   "node_type": "item",
                   "title": "VisualDL",
-                  "description": null,
+                  "description": "PaddlePaddle/VisualDL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -675,7 +675,7 @@
                 {
                   "node_type": "item",
                   "title": "Tensorflow Project Template",
-                  "description": null,
+                  "description": "mgsalem/Tensorflow-Project-Template",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -708,7 +708,7 @@
                 {
                   "node_type": "item",
                   "title": "Learn Deep Learning in 6 Weeks",
-                  "description": null,
+                  "description": "llSourcell/Learn_Deep_Learning_in_6_Weeks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -729,7 +729,7 @@
                 {
                   "node_type": "item",
                   "title": "Top-Deep-Learning",
-                  "description": null,
+                  "description": "mbadry1/Top-Deep-Learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -742,7 +742,7 @@
                     "open_issues": 3,
                     "owner": "mbadry1",
                     "repo": "Top-Deep-Learning",
-                    "stars": 1776,
+                    "stars": 1775,
                     "topics": [
                       "artificial-intelligence",
                       "artificial-neural-networks",
@@ -776,7 +776,7 @@
             {
               "node_type": "item",
               "title": "DeFi Developer Roadmap",
-              "description": null,
+              "description": "OffcierCia/DeFi-Developer-Road-Map",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -808,7 +808,7 @@
             {
               "node_type": "item",
               "title": "Solidity Patterns",
-              "description": null,
+              "description": "fravoll/solidity-patterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -860,7 +860,7 @@
                 "open_issues": 7,
                 "owner": "pmndrs",
                 "repo": "zustand",
-                "stars": 58782,
+                "stars": 58785,
                 "topics": [
                   "hacktoberfest",
                   "hooks",
@@ -920,7 +920,7 @@
                 {
                   "node_type": "item",
                   "title": "Associate Android Developer Certification Path | GitHub",
-                  "description": null,
+                  "description": "Amejia481/Associate-Android-Developer-Certification",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -952,7 +952,7 @@
                 {
                   "node_type": "item",
                   "title": "Android Examples | GitHub",
-                  "description": null,
+                  "description": "nisrulz/android-examples",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -986,7 +986,7 @@
                 {
                   "node_type": "item",
                   "title": "Flutter Examples | GitHub",
-                  "description": null,
+                  "description": "nisrulz/flutter-examples",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -999,7 +999,7 @@
                     "open_issues": 16,
                     "owner": "nisrulz",
                     "repo": "flutter-examples",
-                    "stars": 7150,
+                    "stars": 7149,
                     "topics": [
                       "android",
                       "application-framework",
@@ -1052,7 +1052,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 185011,
+                    "stars": 185009,
                     "topics": [
                       "async",
                       "book",
@@ -1074,7 +1074,7 @@
                 {
                   "node_type": "item",
                   "title": "33 JS concepts every JavaScript developer should know",
-                  "description": null,
+                  "description": "leonardomso/33-js-concepts",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1109,7 +1109,7 @@
                 {
                   "node_type": "item",
                   "title": "500 JavaScript Practice Labs",
-                  "description": null,
+                  "description": "labex-labs/javascript-practice-labs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1192,7 +1192,7 @@
                 {
                   "node_type": "item",
                   "title": "Guide for PHP and SQL connection with HTML form.",
-                  "description": null,
+                  "description": "shauryauppal/PHP-Database-connection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1246,7 +1246,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 185011,
+                    "stars": 185009,
                     "topics": [
                       "async",
                       "book",
@@ -1268,7 +1268,7 @@
                 {
                   "node_type": "item",
                   "title": "33 JS concepts every JavaScript developer should know",
-                  "description": null,
+                  "description": "leonardomso/33-js-concepts",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1303,7 +1303,7 @@
                 {
                   "node_type": "item",
                   "title": "500 JavaScript Practice Labs",
-                  "description": null,
+                  "description": "labex-labs/javascript-practice-labs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1362,7 +1362,7 @@
                     "open_issues": 127,
                     "owner": "jwasham",
                     "repo": "coding-interview-university",
-                    "stars": 362226,
+                    "stars": 362262,
                     "topics": [
                       "algorithm",
                       "algorithms",
@@ -1461,7 +1461,7 @@
                     "open_issues": 127,
                     "owner": "jwasham",
                     "repo": "coding-interview-university",
-                    "stars": 362226,
+                    "stars": 362262,
                     "topics": [
                       "algorithm",
                       "algorithms",
@@ -1533,7 +1533,7 @@
             {
               "node_type": "item",
               "title": "MATLAB Student Resources",
-              "description": null,
+              "description": "mathworks/awesome-matlab-students",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1570,7 +1570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:44:46.960Z",
+    "last_updated": "2026-10-03T04:21:12.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "✅  Curated list of resources for developers ",
@@ -1582,7 +1582,7 @@
       "open_issues": 55,
       "owner": "dipakkr",
       "repo": "A-to-Z-Resources-for-Students",
-      "stars": 22310,
+      "stars": 22312,
       "topics": [
         "android",
         "awesome",
