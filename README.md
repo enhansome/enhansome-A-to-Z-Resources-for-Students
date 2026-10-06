@@ -99,8 +99,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
   * [ToolBaz](https://www.tooljunction.io/ai-tools/toolbaz) - Collection of AI-powered productivity tools
 
 * **Best GitHub Repositories for AI Tools**
-  * [Awesome ChatGPT](https://github.com/f/awesome-chatgpt-prompts) ⭐ 172,123 | 🐛 84 | 🌐 HTML | 📅 2026-10-03
-  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,530 | 🐛 20 | 🌐 Python | 📅 2026-09-30
+  * [Awesome ChatGPT](https://github.com/f/awesome-chatgpt-prompts) ⭐ 172,124 | 🐛 84 | 🌐 HTML | 📅 2026-10-03
+  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,531 | 🐛 20 | 🌐 Python | 📅 2026-09-30
   * [Awesome AI Tools](https://github.com/dipakkr/awesome-ai-tools) ⭐ 17 | 🐛 11 | 📅 2026-08-26
 
 # Programming Languages & Frameworks
