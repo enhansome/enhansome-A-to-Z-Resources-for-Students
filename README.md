@@ -99,8 +99,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
   * [ToolBaz](https://www.tooljunction.io/ai-tools/toolbaz) - Collection of AI-powered productivity tools
 
 * **Best GitHub Repositories for AI Tools**
-  * [Awesome ChatGPT](https://github.com/f/awesome-chatgpt-prompts) ⭐ 172,799 | 🐛 86 | 🌐 HTML | 📅 2026-10-13
-  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,578 | 🐛 25 | 🌐 Python | 📅 2026-10-13
+  * [Awesome ChatGPT](https://github.com/f/awesome-chatgpt-prompts) ⭐ 172,907 | 🐛 86 | 🌐 HTML | 📅 2026-10-14
+  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,581 | 🐛 25 | 🌐 Python | 📅 2026-10-13
   * [Awesome AI Tools](https://github.com/dipakkr/awesome-ai-tools) ⭐ 18 | 🐛 12 | 📅 2026-08-26
 
 # Programming Languages & Frameworks
@@ -121,8 +121,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 * **Tutorials**
 
-  * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) ⭐ 50,135 | 🐛 225 | 🌐 Jupyter Notebook | 📅 2024-06-26
-  * [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) ⭐ 4,052 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2024-01-31
+  * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) ⭐ 50,139 | 🐛 225 | 🌐 Jupyter Notebook | 📅 2024-06-26
+  * [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) ⭐ 4,053 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2024-01-31
   * [Learn Python | CodeAcademy](https://www.codecademy.com/learn/learn-python)
   * [Progate Python Classes](https://progate.com/languages/python) :baby:
   * [Video Tutorial for absolute beginners | YouTube](http://bit.ly/2NkrsKh) :baby:
@@ -155,7 +155,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
   * [Python Skill Tree | LabEx](https://labex.io/skilltrees/python)
 
 * **Best GitHub Repositories to follow**
-  * [The Algorithms Python](https://github.com/TheAlgorithms/Python) ⭐ 225,212 | 🐛 20 | 🌐 Python | 📅 2026-10-12
+  * [The Algorithms Python](https://github.com/TheAlgorithms/Python) ⭐ 225,235 | 🐛 21 | 🌐 Python | 📅 2026-10-14
 
 # AI & Machine Learning
 
@@ -178,13 +178,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
   * [Machine Learning Roadmap  | Scaler Blogs](https://www.scaler.com/blog/machine-learning-roadmap/)
 
 * **Best GitHub Repositories to follow**
-  * [Self Taught Path for Data Science](https://github.com/ossu/data-science) ⭐ 22,205 | 🐛 4 | 📅 2025-05-13
+  * [Self Taught Path for Data Science](https://github.com/ossu/data-science) ⭐ 22,212 | 🐛 4 | 📅 2025-05-13
   * [Coding Train](https://github.com/CodingTrain)
-    -[Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning) ⭐ 20,310 | 🐛 21 | 📅 2020-05-20
-  * [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) ⭐ 18,271 | 🐛 49 | 📅 2024-06-12
+    -[Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning) ⭐ 20,312 | 🐛 21 | 📅 2020-05-20
+  * [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) ⭐ 18,274 | 🐛 49 | 📅 2024-06-12
 
 * **Research Papers**
-  * [Research Papers with code](https://github.com/zziz/pwc) ⭐ 15,305 | 🐛 25 | 📅 2020-01-16
+  * [Research Papers with code](https://github.com/zziz/pwc) ⭐ 15,306 | 🐛 25 | 📅 2020-01-16
   * [Arxiv](https://arxiv.org/)
   * [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
   * [Research Gate](https://www.researchgate.net/)
@@ -217,10 +217,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
   * [Mastering LLMs | YouTube (AssemblyAI)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
 * **Best GitHub Repositories to Follow**
-  * [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 79,113 | 🐛 287 | 🌐 MDX | 📅 2026-03-11
+  * [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 79,148 | 🐛 287 | 🌐 MDX | 📅 2026-03-11
   * [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,447 | 🐛 473 | 📅 2025-07-31
   * [LLM Papers and Tools](https://github.com/Mooler0410/LLMsPracticalGuide) ⭐ 10,204 | 🐛 17 | 📅 2026-04-08
-  * [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) ⭐ 6,367 | 🐛 124 | 🌐 TypeScript | 📅 2026-10-12
+  * [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) ⭐ 6,370 | 🐛 125 | 🌐 TypeScript | 📅 2026-10-13
 
 * **Research Papers**
   * [Arxiv - LLM Category](https://arxiv.org/search/cs?query=large+language+model\&searchtype=all\&abstracts=show\&order=-announced_date_first\&size=50)
@@ -231,7 +231,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
   * [Meta AI Papers](https://ai.meta.com/research/publications/)
 
 * **Tools and Playgrounds to Test LLMs**
-  * [LangChain + OpenAI Agent Playground](https://github.com/langchain-ai/langchain) ⭐ 147,745 | 🐛 642 | 🌐 Python | 📅 2026-10-13
+  * [LangChain + OpenAI Agent Playground](https://github.com/langchain-ai/langchain) ⭐ 147,820 | 🐛 645 | 🌐 Python | 📅 2026-10-14
   * [OpenAI Playground](https://platform.openai.com/playground)
   * [Hugging Face Inference Playground](https://huggingface.co/models)
   * [Replicate](https://replicate.com/)
@@ -257,12 +257,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
   * [Mathematical Introduction to Deep Learning](https://arxiv.org/abs/2103.11201)
 
 * **Best GitHub Repositories to follow**
-  * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) ⭐ 50,135 | 🐛 225 | 🌐 Jupyter Notebook | 📅 2024-06-26
-  * [Caire - Content Aware Image Resize](https://github.com/esimov/caire) ⭐ 10,461 | 🐛 3 | 🌐 Go | 📅 2025-05-02
+  * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) ⭐ 50,139 | 🐛 225 | 🌐 Jupyter Notebook | 📅 2024-06-26
+  * [Caire - Content Aware Image Resize](https://github.com/esimov/caire) ⭐ 10,629 | 🐛 3 | 🌐 Go | 📅 2025-05-02
   * [DensePose - Facebook Research](https://github.com/facebookresearch/DensePose) ⚠️ Archived
   * [VisualDL](https://github.com/PaddlePaddle/VisualDL) ⭐ 4,879 | 🐛 157 | 🌐 HTML | 📅 2025-01-22
-  * [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template) ⭐ 3,615 | 🐛 5 | 🌐 Python | 📅 2022-04-21
-  * [Learn Deep Learning in 6 Weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) ⭐ 2,648 | 🐛 2 | 📅 2018-10-13
+  * [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template) ⭐ 3,616 | 🐛 5 | 🌐 Python | 📅 2022-04-21
+  * [Learn Deep Learning in 6 Weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) ⭐ 2,649 | 🐛 2 | 📅 2018-10-13
   * [Top-Deep-Learning](https://github.com/mbadry1/Top-Deep-Learning) ⭐ 1,777 | 🐛 3 | 🌐 Python | 📅 2024-02-17
 
 * **Certifications & Toolkits**
@@ -422,7 +422,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## State Management
 
-* [Zustand](https://github.com/pmndrs/zustand) ⭐ 58,812 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-05 - Lightweight state management
+* [Zustand](https://github.com/pmndrs/zustand) ⭐ 58,814 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-14 - Lightweight state management
 * [Valtio](https://github.com/pmndrs/valtio) ⭐ 10,241 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-12 - Proxy-based state management
 * [Jotai](https://jotai.org/) - Primitive and flexible state management
 * [Redux Toolkit](https://redux-toolkit.js.org/) - Modern Redux development
@@ -497,8 +497,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ### JavaScript
 
-* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,823 | 🐛 2 | 📅 2026-02-15 :star:
-* [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts) ⭐ 66,533 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-10
+* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,821 | 🐛 2 | 📅 2026-02-15 :star:
+* [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts) ⭐ 66,531 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-10
 * [500 JavaScript Practice Labs](https://github.com/labex-labs/javascript-practice-labs) ⭐ 95 | 🐛 0 | 📅 2026-06-30
 * [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 * [javascript.info](https://javascript.info/) - Modern JavaScript Tutorial
@@ -727,8 +727,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 * **JavaScript**
 
-  * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,823 | 🐛 2 | 📅 2026-02-15 :star:
-  * [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts) ⭐ 66,533 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-10
+  * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,821 | 🐛 2 | 📅 2026-02-15 :star:
+  * [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts) ⭐ 66,531 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-10
   * [500 JavaScript Practice Labs](https://github.com/labex-labs/javascript-practice-labs) ⭐ 95 | 🐛 0 | 📅 2026-06-30
   * [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
   * [javascript.info](https://javascript.info/) - Modern JavaScript Tutorial
@@ -866,7 +866,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ### Books
 
-* [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) ⭐ 362,426 | 🐛 127 | 📅 2025-08-28 -  Strongly recommended to learn DS and Computer Science fundamentals
+* [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) ⭐ 362,480 | 🐛 128 | 📅 2025-08-28 -  Strongly recommended to learn DS and Computer Science fundamentals
 * [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) ⭐ 1,372 | 🐛 63 | 🌐 Jupyter Notebook | 📅 2024-06-18 - Algorithm and Data Structure in different programming languages
 * [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
 * [The Hitchhiker's Guide to the Programming Contests](https://comscigate.com/Books/contests/icpc.pdf) - Goto book for competitive programming enthusiasts.
@@ -1259,7 +1259,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
 9. [App Academy - Full Stack Coding Bootcamp, Free Curriculum](https://open.appacademy.io/#free)
-10. [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) ⭐ 209,948 | 🐛 28 | 🌐 HTML | 📅 2026-07-14 - *Learning*
+10. [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) ⭐ 209,980 | 🐛 28 | 🌐 HTML | 📅 2026-07-14 - *Learning*
 11. [Free Women-Only Mentorship Program](https://www.builtbygirls.com/programs/wave) - *Learning*
 
 # 🧭 Recommended Learning Paths
@@ -1356,7 +1356,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
   * [Data Structures and Algorithm](https://nptel.ac.in/courses/106/102/106102064/ "NPTEL")
 
 * **Books**
-  * [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) ⭐ 362,426 | 🐛 127 | 📅 2025-08-28 -  Strongly recommended to learn DS and Computer Science fundamentals
+  * [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) ⭐ 362,480 | 🐛 128 | 📅 2025-08-28 -  Strongly recommended to learn DS and Computer Science fundamentals
   * [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) ⭐ 1,372 | 🐛 63 | 🌐 Jupyter Notebook | 📅 2024-06-18 - Algorithm and Data Structure in different programming languages
   * [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
   * [The Hitchhiker's Guide to the Programming Contests](https://comscigate.com/Books/contests/icpc.pdf) - Goto book for competitive programming enthusiasts.
@@ -2115,7 +2115,7 @@ For Becoming a Full-Stack Web Developer you need to know about Front-End & Back-
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
 9. [App Academy - Full Stack Coding Bootcamp, Free Curriculum](https://open.appacademy.io/#free)
-10. [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) ⭐ 209,948 | 🐛 28 | 🌐 HTML | 📅 2026-07-14 - *Learning*
+10. [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) ⭐ 209,980 | 🐛 28 | 🌐 HTML | 📅 2026-07-14 - *Learning*
 11. [Free Women-Only Mentorship Program](https://www.builtbygirls.com/programs/wave) - *Learning*
 
 # 13. Coding Bootcamps
@@ -2238,4 +2238,4 @@ If this repository helped you, consider giving it a star — it helps more stude
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
