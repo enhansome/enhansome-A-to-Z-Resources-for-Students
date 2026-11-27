@@ -48,11 +48,11 @@
                 "id": 574523116,
                 "language": "MDX",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-26T07:09:14Z",
+                "last_commit": "2026-11-27T03:13:20Z",
                 "open_issues": 99,
                 "owner": "f",
                 "repo": "prompts.chat",
-                "stars": 178555,
+                "stars": 178658,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -92,7 +92,7 @@
                 "open_issues": 41,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74913,
+                "stars": 74925,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:21:31.648Z"
@@ -149,7 +149,7 @@
                     "open_issues": 228,
                     "owner": "jakevdp",
                     "repo": "PythonDataScienceHandbook",
-                    "stars": 50519,
+                    "stars": 50521,
                     "topics": [
                       "jupyter-notebook",
                       "matplotlib",
@@ -202,10 +202,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-13T04:28:36Z",
-                    "open_issues": 156,
+                    "open_issues": 159,
                     "owner": "TheAlgorithms",
                     "repo": "Python",
-                    "stars": 226484,
+                    "stars": 226499,
                     "topics": [
                       "algorithm",
                       "algorithm-competitions",
@@ -261,7 +261,7 @@
                     "open_issues": 4,
                     "owner": "ossu",
                     "repo": "data-science",
-                    "stars": 22449,
+                    "stars": 22451,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:31.648Z"
@@ -312,7 +312,7 @@
                     "open_issues": 48,
                     "owner": "ujjwalkarn",
                     "repo": "Machine-Learning-Tutorials",
-                    "stars": 18390,
+                    "stars": 18391,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -352,7 +352,7 @@
                     "open_issues": 25,
                     "owner": "zziz",
                     "repo": "pwc",
-                    "stars": 15299,
+                    "stars": 15298,
                     "topics": [
                       "code",
                       "cvpr",
@@ -393,10 +393,10 @@
                     "language": "MDX",
                     "license": "MIT",
                     "last_commit": "2026-03-11T20:09:13Z",
-                    "open_issues": 298,
+                    "open_issues": 299,
                     "owner": "dair-ai",
                     "repo": "Prompt-Engineering-Guide",
-                    "stars": 80387,
+                    "stars": 80409,
                     "topics": [
                       "agent",
                       "agents",
@@ -426,10 +426,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2025-07-31T02:38:24Z",
-                    "open_issues": 514,
+                    "open_issues": 515,
                     "owner": "Hannibal046",
                     "repo": "Awesome-LLM",
-                    "stars": 27517,
+                    "stars": 27524,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:31.648Z"
@@ -472,11 +472,11 @@
                     "id": 599716050,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-25T17:01:12Z",
-                    "open_issues": 145,
+                    "last_commit": "2026-11-26T16:42:46Z",
+                    "open_issues": 147,
                     "owner": "promptslab",
                     "repo": "Awesome-Prompt-Engineering",
-                    "stars": 6459,
+                    "stars": 6460,
                     "topics": [
                       "chatgpt",
                       "chatgpt-api",
@@ -520,11 +520,11 @@
                     "id": 552661142,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-26T10:36:59Z",
-                    "open_issues": 781,
+                    "last_commit": "2026-11-27T08:21:12Z",
+                    "open_issues": 785,
                     "owner": "langchain-ai",
                     "repo": "langchain",
-                    "stars": 150020,
+                    "stars": 150072,
                     "topics": [
                       "agents",
                       "ai",
@@ -580,7 +580,7 @@
                     "open_issues": 228,
                     "owner": "jakevdp",
                     "repo": "PythonDataScienceHandbook",
-                    "stars": 50519,
+                    "stars": 50521,
                     "topics": [
                       "jupyter-notebook",
                       "matplotlib",
@@ -608,7 +608,7 @@
                     "open_issues": 0,
                     "owner": "esimov",
                     "repo": "caire",
-                    "stars": 10926,
+                    "stars": 10927,
                     "topics": [
                       "computer-vision",
                       "content-aware-resize",
@@ -688,7 +688,7 @@
                     "open_issues": 5,
                     "owner": "mgsalem",
                     "repo": "Tensorflow-Project-Template",
-                    "stars": 3612,
+                    "stars": 3611,
                     "topics": [
                       "best-practices",
                       "convolutional-neural-networks",
@@ -789,7 +789,7 @@
                 "open_issues": 21,
                 "owner": "OffcierCia",
                 "repo": "DeFi-Developer-Road-Map",
-                "stars": 10901,
+                "stars": 10899,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -860,7 +860,7 @@
                 "open_issues": 2,
                 "owner": "pmndrs",
                 "repo": "zustand",
-                "stars": 59005,
+                "stars": 59030,
                 "topics": [
                   "hacktoberfest",
                   "hooks",
@@ -885,11 +885,11 @@
                 "id": 313443335,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-25T04:19:08Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-27T08:34:54Z",
+                "open_issues": 6,
                 "owner": "pmndrs",
                 "repo": "valtio",
-                "stars": 10251,
+                "stars": 10252,
                 "topics": [
                   "mutable",
                   "proxy",
@@ -1052,7 +1052,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184850,
+                    "stars": 184841,
                     "topics": [
                       "async",
                       "book",
@@ -1087,7 +1087,7 @@
                     "open_issues": 10,
                     "owner": "leonardomso",
                     "repo": "33-js-concepts",
-                    "stars": 66530,
+                    "stars": 66531,
                     "topics": [
                       "angular",
                       "concepts",
@@ -1246,7 +1246,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184850,
+                    "stars": 184841,
                     "topics": [
                       "async",
                       "book",
@@ -1281,7 +1281,7 @@
                     "open_issues": 10,
                     "owner": "leonardomso",
                     "repo": "33-js-concepts",
-                    "stars": 66530,
+                    "stars": 66531,
                     "topics": [
                       "angular",
                       "concepts",
@@ -1359,10 +1359,10 @@
                     "language": null,
                     "license": "CC-BY-SA-4.0",
                     "last_commit": "2026-11-07T16:03:02Z",
-                    "open_issues": 26,
+                    "open_issues": 27,
                     "owner": "jwasham",
                     "repo": "coding-interview-university",
-                    "stars": 365087,
+                    "stars": 365129,
                     "topics": [
                       "algorithm",
                       "algorithms",
@@ -1458,10 +1458,10 @@
                     "language": null,
                     "license": "CC-BY-SA-4.0",
                     "last_commit": "2026-11-07T16:03:02Z",
-                    "open_issues": 26,
+                    "open_issues": 27,
                     "owner": "jwasham",
                     "repo": "coding-interview-university",
-                    "stars": 365087,
+                    "stars": 365129,
                     "topics": [
                       "algorithm",
                       "algorithms",
@@ -1570,7 +1570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T12:30:34.862Z",
+    "last_updated": "2026-11-27T12:16:27.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.",
@@ -1579,10 +1579,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-21T16:19:25Z",
-      "open_issues": 92,
+      "open_issues": 68,
       "owner": "dipakkr",
       "repo": "awesome-ai-engineering",
-      "stars": 22641,
+      "stars": 22646,
       "topics": [
         "agentic-ai",
         "ai-agents",
